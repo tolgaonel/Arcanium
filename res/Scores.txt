@@ -1,0 +1,15 @@
+Score: 7900
+Min: 7 Sec: 44
+Date: 2022-05-28
+Name: 
+Surname: 
+Score: 0
+Min: 0 Sec: 4
+Date: 2022-05-28
+Name: 
+Surname: 
+Score: 16000
+Min: 8 Sec: 43
+Date: 2022-05-28
+Name: Tolga 
+Surname: Önel

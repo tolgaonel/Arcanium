@@ -1,0 +1,12 @@
+In this game your goal is to gather maximum amount of points by braking the bricks. 
+There is 3 difficuly level and also there is 3 types of bricks the red bricks has 
+1 orange ones has 2 and the black ones has 3 hit life every time that you hit a 
+brick ypu will gain 100 points. You will be breaking the bricks by a ball that 
+moves constantly you will have to preventthe ball to hit to ground else you will 
+lose a life. You will start with 3 life so use them wisely try not to die to get 
+better. In addition you will prevent the ball from hitting the ground by a paddle
+which moves keybor arrow keybindings and also clicking to the mouse right click, 
+right arrow will let you move paddle right and left click, left arrow will let you
+move the paddle left. Thanks for playing my game!!!
+				
+				   !HAVE FUN!
